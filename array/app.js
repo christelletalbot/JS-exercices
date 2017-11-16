@@ -6,3 +6,5 @@ console.log(array)
 console.log(array [2])
 
 console.log(array [4])
+
+console.log(array [10])
